@@ -1,0 +1,4 @@
+AssignMENT Word
+wordStat pointeRS StriNG
+STring strING wordStat
+

@@ -1,0 +1,4 @@
+AssignMENT2--=Word\\
+wordStat( ~pointeRS~ 12++StriNG--)
+STring strING 45$%wordStat--
+
